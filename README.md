@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is **Rashif Dhafin Fairiza**.
+
+I am an informatics undergraduate student at Universitas Diponegoro.
+
+If you want to know me, just follow my [LinkedIn](https://www.linkedin.com/in/rashifdhafin).
+
+
+
 <!--
 **rashifdhafin/rashifdhafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
