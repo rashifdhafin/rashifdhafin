@@ -2,7 +2,7 @@
 
 My name is **Rashif Dhafin Fairiza**.
 
-I am an informatics undergraduate student at Universitas Diponegoro.
+I am a fresh graduate informatics student from Universitas Diponegoro.
 
 If you want to know me, just follow my [LinkedIn](https://www.linkedin.com/in/rashifdhafin).
 
