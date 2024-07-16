@@ -2,7 +2,13 @@
 
 My name is **Rashif Dhafin Fairiza**.
 
-I am a fresh graduate informatics student from Universitas Diponegoro.
+A fresh graduate from Diponegoro University with a bachelor's degree in Informatics. My thesis titled 'Classification of Coffee Beans Using GLCM Feature Extraction and Random Forest Algorithm' explores innovative approaches to distinguish between Arabica and Robusta coffee beans using Machine Learning techniques.
+
+My last experience was as a Data Scientist in the 'Project-Based Virtual Intern' program held by id/x partners X Rakamin Academy has expanded my understanding of data processing, predictive modeling, and performance evaluation. Engaged in a final project focusing on credit risk classification, I gained practical insights into implementing Machine Learning solutions for business problems.
+
+I have a strong goal to pursue a career oriented towards data analysis, data-driven decision-making, and predictive modeling. I am interested in contributing in a collaborative and innovative work environment where I can continue to learn and grow.
+
+With skills in feature extraction, data processing, and experience in Machine Learning-based projects, I am ready to take on new challenges and make a positive impact in roles such as Data Scientist, Data Analyst, Machine Learning Engineer or similar positions.
 
 If you want to know me, just follow my [LinkedIn](https://www.linkedin.com/in/rashifdhafin).
 
